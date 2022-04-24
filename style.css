@@ -607,7 +607,7 @@ header .navbar a:hover {
     color: #666;
 }
 
-.footer span {
+.footer span a{
     color: var(--red);
 }
 
