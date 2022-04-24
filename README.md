@@ -14,7 +14,7 @@ The cartoon's themes and white background looks nice and eye friendly for users.
 The contact section consists of all the information that customers may be looking
 for including the address on google map and the social media.
 
-<a href="" target="_blank">Little Cubs</a>
+<a href="https://scarcemrk.github.io/LittleCubs/" target="_blank">Little Cubs</a>
 
 ### Screenshot
 ![screenshot](https://user-images.githubusercontent.com/103833613/164984729-bce32026-38f7-45a1-b7fc-d92bbcf26bec.png)
